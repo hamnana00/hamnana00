@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Naomi Jara Jahuira aka @hamnana00
+- 👋 Hi, I’m Dacil Naomi Jara Jahuira
 - 👀 I’m interested in lots of things
-- 🌱 I’m currently learning C, Java
+- 🌱 I’m currently learning Java anc C
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me chaesgf00@gmail.com
+- 📫 How to reach me dacil.jara@gmail.com
 - 😄 Pronouns: she/her but i dont feel offended with other pronouns
 - ⚡ Fun fact: i can bark
 
